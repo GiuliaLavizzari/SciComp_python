@@ -1,5 +1,5 @@
-# SciComp_python
-Exam - Scientific Computing in python
+# Scientific Computing with Python
+Exam - Giulia Lavizzari (ay 2023/2024)
 
 
 ## Lecture 1 - python interface to Oracle DB
