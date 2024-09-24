@@ -18,3 +18,13 @@ The first exercise here contained is the game of life. It can be run in normal m
 ### Secret Santa
 The second exercise here in lecture 2 is a very very simple script that shuffles a set of names in order to assign to each person his/her secret santa, and then sends an email to everyone wit the correct info. Note that the script works for a gmail server and it's necessary to allow the "Less Secure App access" in the settings of the account.
 It was developed for a group of friends that live far from each other and thus cannot pick names written on paper (as normally one would to). Worked!!
+
+## Lecture 3
+
+### Plot payload of CMS ECAL during 2024 data-taking
+This exercise features a script ([plotPayloadData.py](https://github.com/GiuliaLavizzari/SciComp_python/blob/75c017603d64ff77d7f57596fa51d0246953568c/Lecture3/plotPayloadData.py)) that plots the payload in kB collected by each CMS ECAL partition, namely the endcaps (EE), barrel+ (EB+) and barrel- (EB-) during 2024 data-taking. Data are stored in a txt file, in the same folder, and output figures are collected in a [dedicated folder](https://github.com/GiuliaLavizzari/SciComp_python/tree/75c017603d64ff77d7f57596fa51d0246953568c/Lecture3/images) (and displayed in the dedicated README).
+
+The exercise also contains a second version of the script ([plotPayloadData_improved.py](https://github.com/GiuliaLavizzari/SciComp_python/blob/75c017603d64ff77d7f57596fa51d0246953568c/Lecture3/plotPayloadData_improved.py)), which introduces some modifications (i.e. subplots, different font...).
+
+### Other
+The Game of Life exercise in Lecture 1 also contains an example of use of matplotlib, more specifically it allows for creating a gif showing the result of the exercise.
