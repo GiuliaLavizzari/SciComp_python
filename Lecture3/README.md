@@ -5,12 +5,12 @@ The barrel is further divided into two halves, named as "plus" and "minus".
 The following plots show the data payload (kB) in each partition. Points were sampled every 30 minutes, throughout 2024 data-taking.
 The "hole" in june is the so-called "Machine Development", i.e. a period of about a week during which LHC does not deliver beam and therefore there is no data available.
 
-![alt text](Lecture3/images/EB+payload.png)
-![alt text](Lecture3/images/EB-payload.png)
-![alt text](Lecture3/images/EEpayload.png)
+![alt text](https://github.com/GiuliaLavizzari/SciComp_python/blob/4db2e4e56bea32c50daaa30ec68404b69cbda16c/Lecture3/images/EB%2Bpayload.png)
+![alt text](https://github.com/GiuliaLavizzari/SciComp_python/blob/4db2e4e56bea32c50daaa30ec68404b69cbda16c/Lecture3/images/EB-payload.png)
+![alt text](https://github.com/GiuliaLavizzari/SciComp_python/blob/4db2e4e56bea32c50daaa30ec68404b69cbda16c/Lecture3/images/EEpayload.png)
 
 ### merged Barrel Partitions:
-![alt text](Lecture3/images/BARRELpayload.png)
+![alt text](https://github.com/GiuliaLavizzari/SciComp_python/blob/4db2e4e56bea32c50daaa30ec68404b69cbda16c/Lecture3/images/BARRELpayload.png)
 
 ## Plotting payload data (improved version)
-![alt text](Lecture3/images/payload_improved.png)
+![alt text](https://github.com/GiuliaLavizzari/SciComp_python/blob/4db2e4e56bea32c50daaa30ec68404b69cbda16c/Lecture3/images/payload_improved.png)
