@@ -2,7 +2,8 @@
 Exam - Giulia Lavizzari (ay 2023/2024)
 
 
-## Lecture 1 - python interface to Oracle DB
+## Lecture 1 
+### Python interface to Oracle DB
 The exercise contains a class ([DbInterface](https://github.com/GiuliaLavizzari/SciComp_python/blob/09459dc00b621f894b7a7fcb1f8f6fb99c8d673b/Lecture1/DbInterface.py)), which allows to interact with an oracle DB built for the CMS electromagnetic calorimeter (ECAL) upgrade for the High-Luminosity phase of the LHC.
 It also contains a set of [utilities](https://github.com/GiuliaLavizzari/SciComp_python/tree/09459dc00b621f894b7a7fcb1f8f6fb99c8d673b/Lecture1/scripts) for quick operations on the db, such as printing or deleting tables.
 
@@ -24,7 +25,7 @@ This exercise features a script ([plotPayloadData.py](https://github.com/GiuliaL
 
 The exercise also contains a second version of the script ([plotPayloadData_improved.py](https://github.com/GiuliaLavizzari/SciComp_python/blob/75c017603d64ff77d7f57596fa51d0246953568c/Lecture3/plotPayloadData_improved.py)), which introduces some modifications (i.e. subplots, different font...).
 
-### Other
+### Game of life visualization
 The Game of Life exercise in Lecture 1 also contains an example of use of matplotlib, more specifically it allows for creating a gif showing the result of the exercise.
 
 ## Lecture 4
