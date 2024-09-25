@@ -45,7 +45,6 @@ I added a [PR to remove an attachment](https://github.com/dgerosa/scientificcomp
 
 ### Project under version control (git)
 The project I'm working on that was not under version control is this exam, which is now here on github! 
-
 (In my usual work life I use mainly gitlab, as I mainly work on CERN projects hosted there.)
 
 ### Additional: github pages fix
