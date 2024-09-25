@@ -26,3 +26,13 @@ The exercise also contains a second version of the script ([plotPayloadData_impr
 
 ### Other
 The Game of Life exercise in Lecture 1 also contains an example of use of matplotlib, more specifically it allows for creating a gif showing the result of the exercise.
+
+## Lecture 4
+
+### Smoothing exercise
+After generating and smearing the data as illustrated in the exercise, Scipy `convolute` is used to smooth them, considering a gaussian kernel.
+
+### Interpolation exercise
+A function is created (A sine dumped by a decaying exponential, summed to a polynomial term) and used to generate a sample.
+Interpolation of such sample is then performed, either using scipy CubicSpline (`--cubicSpline`) or via interp1d (the kind of interpolation can be specified via the `--intsetting` argument).
+Residuals are computed as Ytrue (i.e. the actual function) -  Yinterpolated (i.e. the interpolated function).
