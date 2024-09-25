@@ -36,3 +36,9 @@ After generating and smearing the data as illustrated in the exercise, Scipy `co
 A function is created (A sine dumped by a decaying exponential, summed to a polynomial term) and used to generate a sample.
 Interpolation of such sample is then performed, either using scipy CubicSpline (`--cubicSpline`) or via interp1d (the kind of interpolation can be specified via the `--intsetting` argument).
 Residuals are computed as Ytrue (i.e. the actual function) -  Yinterpolated (i.e. the interpolated function).
+
+
+## Lecture 6
+
+### PR to scientificcomputing_bicocca_2023
+I added a [PR to remove an attachment](https://github.com/dgerosa/scientificcomputing_bicocca_2023/pull/12) that was missing (it was preventing the notebook from showing).
