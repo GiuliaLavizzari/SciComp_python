@@ -66,3 +66,5 @@ The script needs an installation of `uproot` for running. The root file with the
 wget https://giulialavizzari.web.cern.ch/VBStagger_fileset/tree_Zjj_10k.tar.gz
 tar -xf tree_Zjj_10k.tar.gz
 ```
+### Plotting decorator
+Designed a plotting decorator for quick plotting in python using CMS style. Luminosity and status can be changed, defaults are run2 (137/fb) and prelyminary. Can also change `rc.palette` on the fly. Figures are saved both in pdf and png. An example of the result can be found in the dedicated folder.
