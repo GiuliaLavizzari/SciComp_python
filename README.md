@@ -68,3 +68,9 @@ tar -xf tree_Zjj_10k.tar.gz
 ```
 ### Plotting decorator
 Designed a plotting decorator for quick plotting in python using CMS style. Luminosity and status can be changed, defaults are run2 (137/fb) and prelyminary. Can also change `rc.palette` on the fly. Figures are saved both in pdf and png. An example of the result can be found in the dedicated folder.
+
+
+## Lecture 8
+
+## profiling exercise
+To test `cProfile` I took the script I had translated to numba in Lecture 7, slightly modifying the function (without numba!). I tried adding some dummy method for slowing down the scrip, e.g. a print, and checked the different outcome of the profiling. Everything was then displayed through snakeviz. Some screenshots are available in the dedicated README of Lecture 8.
