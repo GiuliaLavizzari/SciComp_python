@@ -38,6 +38,12 @@ A function is created (A sine dumped by a decaying exponential, summed to a poly
 Interpolation of such sample is then performed, either using scipy CubicSpline (`--cubicSpline`) or via interp1d (the kind of interpolation can be specified via the `--intsetting` argument).
 Residuals are computed as Ytrue (i.e. the actual function) -  Yinterpolated (i.e. the interpolated function).
 
+## Lecture 5 - Mathematica
+### Evaluation of a function
+The function $`f(x) = xe^{-x} + x(1-x)`$ is evaluated in the given points. Results and plots in the dedicated readme.
+
+### Integration and Differentiation
+The function $`f(x) = sin(x) e^{-x}`$ is integrated and then the derivative is computed. Results and plots in the dedicated readme.
 
 ## Lecture 6
 
