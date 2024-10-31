@@ -74,3 +74,6 @@ Designed a plotting decorator for quick plotting in python using CMS style. Lumi
 
 ## profiling exercise
 To test `cProfile` I took the script I had translated to numba in Lecture 7, slightly modifying the function (without numba!). I tried adding some dummy method for slowing down the scrip, e.g. a print, and checked the different outcome of the profiling. Everything was then displayed through snakeviz. Some screenshots are available in the dedicated README of Lecture 8.
+
+## pytest
+I choose to investigate the implementation of tests in a large-scale library, specifically focusing on `numpy` and `numpy.random`. A summary can be found in the dedicated readme of Lecture 8.
