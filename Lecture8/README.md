@@ -11,7 +11,7 @@ I also discovered one can profile an 'entire script' via `python -m cProfile -o 
 
 # pytest
 
-## A quick summary on `numpy.random` tests (and why I chose this)
+### A quick summary on `numpy.random` tests (and why I chose this module)
 For this exercise, I choose to study the implementation of testing methodologies in large-scale libraries, focusing in particular on `numpy`. Specifically I investigated the `numpy.random` module, which I often use in my work. The choice of this module was also influenced by my (little, in truth) prior experience developing random number generators, which I acquired during basic computing and statistics courses. In these contexts, we were asked to implement simple methods such as the linear congruential generator, and to test and study their performance. This gave me a slightly deeper insight into some potential issues and limitations inherent to random generation.
 
 
